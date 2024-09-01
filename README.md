@@ -19,3 +19,9 @@ Esse repositório foi criado com a finalidade de concluir o desafio proposto pel
 ### Meu portifólio feito aqui no Github 🤭
 
 [Acesso ao portifólio](https://github.com/KauaneRossete) 
+
+--------------
+
+### Como entrar em contato comigo?
+
+<a href="https://www.linkedin.com/in/kauane-rossete/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
